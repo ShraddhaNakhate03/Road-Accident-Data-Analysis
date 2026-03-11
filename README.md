@@ -110,7 +110,7 @@ road-accident-analysis
 
 1. Clone the repository
 
-git clone https://github.com/your-username/road-accident-analysis.git
+git clone https://github.com/ShraddhaNakhate03/road-accident-analysis.git
 
 2. Install required libraries
 
@@ -141,12 +141,12 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-Your Name
+Shraddha Nakhate
 
 Aspiring **Data Analyst**
 
 Skills:
-Python | SQL | Power BI | Data Visualization
+Excel | Data Analysis | Pivot Tables | Data Visualization | Dashboard Creation
 
-LinkedIn: (Add your LinkedIn profile here)
+
 
